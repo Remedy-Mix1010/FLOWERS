@@ -1,0 +1,38 @@
+#red{
+    height: 200px;
+    width: 200px;
+}
+#orange{
+    height: 200px;
+    width: 200px;
+}  
+#yellow{
+    height: 200px;
+    width: 200px;
+}
+#green{
+    height: 200px;
+    width: 200px;
+}
+#blue{
+    height: 200px;
+    width: 200px;
+}
+#purple{
+    height: 200px;
+    width: 200px;
+}
+html{
+    background-color: #b5cef5;
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+#pur{
+    width: 200px;
+    height: 200px;
+}
